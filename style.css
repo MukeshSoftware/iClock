@@ -26,12 +26,25 @@ a:hover {
     padding: 40px 100px;
     z-index: 100000;
 
+
+}
+h3{
+    color: aqua;
 }
 header.sticky{
     padding: 5px 100px;
     background: #fff;
 }
 
+.highlight, select{
+    background-image: linear-gradient(to right, #F27121cc, #E94057cc, #8A2387cc);
+
+   color: rgba(17, 13, 234, 0.599);
+  border-radius: 5px;
+  padding: 5px;
+  font-family: cursive;
+  }
+  
 header .logo
 {
     position: relative;
@@ -77,4 +90,11 @@ header ul li a{
 header.sticky .logo,
 header.sticky ul li a{
     color: #000;
+}
+.time{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
 }
