@@ -1,2 +1,2 @@
 # iClock
-https://mukeshsoftware.github.io/iClock/Indax.htm
+https://mukeshsoftware.github.io/iClock/indax.htm
